@@ -1,0 +1,18 @@
+body {
+    background-color: cornflowerblue;
+    font-family: fantasy;
+}
+h1 {
+    background: forestgreen;
+}
+#list_of_objects {
+    background-color: darkolivegreen;
+}
+.objects_names{
+    color: whitesmoke;
+}
+#buttons{
+    background-color: peru;
+}
+
+
